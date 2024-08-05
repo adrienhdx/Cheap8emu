@@ -6,7 +6,9 @@ CHIP-8 interpreter written in C++ as a personal introduction to hardware emulati
 
 ## Screenshots
 ![Tests passing](docs/tests.png)
+The interpreter successfully passes opcode tests
 ![Tetris](docs/tetris.png)
+Using SDL for input-handling and rendering, the interpreter executes ROMs from the 1970s-1990s
 
 ## Resources Used
 - [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#2.4)
